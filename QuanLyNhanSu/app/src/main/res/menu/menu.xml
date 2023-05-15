@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mnuSave"
+        android:title="@string/mnuSave"
+        android:icon="@drawable/save"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/mnuUpdate"
+        android:title="@string/mnuUpdate"
+        android:icon="@drawable/update"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/mnuDelete"
+        android:title="@string/mnuDelete"
+        android:icon="@drawable/delete"
+        app:showAsAction="ifRoom"/>
+</menu>

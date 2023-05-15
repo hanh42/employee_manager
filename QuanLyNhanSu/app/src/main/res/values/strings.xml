@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">QuanLyNhanSu</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="lblHobbies">Hobbies</string>
+    <string name="hintHobbies">Other Hobbies</string>
+    <string name="chkRead">Read</string>
+    <string name="chkTravel">Travel</string>
+    <string name="degreeUniversity">University</string>
+    <string name="degreeCollege">College</string>
+    <string name="degreeTraining">Training</string>
+    <string name="degreeNone">None</string>
+    <string name="lblName">Name</string>
+    <string name="lblDegree">Degree</string>
+    <string name="radTraining">Training</string>
+    <string name="radCollege">Colledge</string>
+    <string name="radUniversity">University</string>
+    <string name="edtOtherHoppies">Other Hoppies</string>
+    <string name="mnuSave">Save</string>
+    <string name="mnuUpdate">Update</string>
+    <string name="mnuDelete">Delete</string>
+    <string name="lblDialogTitle">Notification</string>
+</resources>
